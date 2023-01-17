@@ -1,2 +1,3 @@
-# .github
-Home content for anomaly-consulting organization
+# anomalY consulting
+
+Home page for the anomalY consulting LLC development organziation
